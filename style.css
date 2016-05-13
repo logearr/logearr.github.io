@@ -1,0 +1,16 @@
+html {
+	border-top: 0.3em #e81c4f solid;
+}
+
+body {
+	font-family: 'Georgia', 'Times New Roman', sans-serif;
+}
+
+#container {
+	margin: 0 auto;
+	width: 70%;	
+}
+
+#copy {
+	font-size:0.9em;
+}
